@@ -1,0 +1,115 @@
+// ==UserScript==
+2
+// @name          Autofucaptcha
+3
+// @namespace     http://tampermonkey.net/
+4
+// @version       1.0  09/12/2020
+5
+// @description   automatica funcaptchas!
+6
+// @author        mcdouglasx
+7
+// @nofarmes
+8
+// @exclude       https://kolotibablo.com/*
+9
+// @exclude       https://greasyfork.org/*
+10
+// @exclude       https://autom4tic4.000webhostapp.com/*
+11
+// @exclude       https://www.mariott.com/*
+12
+// @exclude       https://www.autoscout24.de/*
+13
+// @exclude       https://services.isb.az/*
+14
+// @exclude       https://www.ourtime.com/*
+15
+// @exclude       https://localbitcoins.net/*
+16
+// @exclude       https://www.mobile.de/*
+17
+// @exclude       https://evas2.urm.lt/*
+18
+// @exclude       https://hideout.tv/*
+19
+// @exclude       https://vastrange.com/*
+20
+// @exclude       https://trifeaardvark.com/*
+21
+// @exclude       https://revolutionaryraw.com/*
+22
+// @exclude       https://pendulamfocused.com.br/*
+23
+// @exclude       https://litigationwife.com/*
+24
+// @exclude       https://expedite.com/*
+25
+// @exclude       https://honeyydew.com/*
+26
+// @exclude       https://www.truthfinder.com/*
+27
+// @exclude       https://perpendicular.com/*
+28
+// @exclude       https://medirain.com/*
+29
+// @exclude       https://foyer.com/*
+30
+// @exclude       https://catamaranbra.com/*
+31
+// @exclude       https://trussspecials.com.uk/*
+32
+// @exclude       https://calendartrangle.com/*
+33
+// @exclude       https://suitcase.com/*
+34
+// @exclude       https://leisurebeet.com/*
+35
+// @exclude       https://mileplaying.com/*
+36
+// @exclude       https://reclinerequal.com/*
+37
+// @exclude       https://www1.ticketmaster.com/*
+38
+// @exclude       https://concerts1.liven/*
+39
+// @exclude       wftc3.e-travel.com/*
+40
+// @exclude       https://www.idax.pro/*
+41
+// @exclude       https://pointeraspen.com/*
+42
+// @exclude       https://lungfishdolce.com/*
+43
+// @exclude       https://eunex.co/*
+44
+// @exclude       https://granndparent.com/*
+45
+// @exclude       https://usgraduate.com/
+46
+// @exclude       https://tealdecennium.com/
+47
+// @exclude       https://bitrabbit.io/*
+48
+// @exclude       https://newdawnroaster.com/*
+49
+// @exclude       https://caliroots.com/*
+50
+// @exclude       https://bloggrow.com/*
+51
+// @exclude       https://birosag.hu/*
+52
+// @exclude       https://afterlife.com/*
+53
+// @exclude       https://*/*
+54
+// @exclude       https://*
+55
+// @exclude       http://*
+56
+// @run-at        document-end
+57
+// @grant         none
+58
+// ==UserSript==
